@@ -1,0 +1,7 @@
+{
+  "id": "sec12",
+  "order": 11,
+  "title": "自动重试",
+  "archive": true,
+  "body": "—— 数据库自动pvp设置\n\n⚠️ 声明： 本教程仅适用于数据库 蚀心入魔@Mov4.3 版本及以上\n\n观前提示：电脑端若看不清图片可以使用Ctrl加滚轮放大\n\n## 填表如何自动pvp\n### 步骤①：降低跳过字符数\n\n![](https://st-shujuku.com/img/image176.png)\n\n## 正文如何自动pvp\n\n利用到插件自动pvp功能\n\n安装好以后最大尝试20，最小回复长度500，重试延迟300\n\n## 剧情推进自动PVP\n\n这个最大重试和跳过最小更新回复长度是同步全文的，而不是单独的循环功能\n\n![](https://st-shujuku.com/img/image68.png)\n\n这也是我们所说的为什么剧情推进时间要这么长，默认是3，也就是说，我们平常所推进的已经是pvp3次失败以后的导出了最大重试设置1000（你总不可能1000次失败吧）\n\n### 原版\n\n跳过更新最小回复长度设置100\n\n### 缝合怪\n\n跳过更新最小回复长度设置200然后需要先点击保存提示词组\n\n然后再点击这里的保存按钮\n\n![](https://st-shujuku.com/img/image96.png)\n\n![](https://st-shujuku.com/img/image152.png)"
+}

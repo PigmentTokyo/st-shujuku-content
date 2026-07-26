@@ -1,0 +1,7 @@
+{
+  "id": "sec05",
+  "order": 4,
+  "title": "中途使用数据库教程",
+  "archive": false,
+  "body": "❗ 第一次使用数据库，推荐重开对话。实在不想重开，可以使用本方法\n\n#### ☞  先看 前置的安装、新手教程\n\n#### ☞  再回来看 数据库统计的AI回复楼层\n\n---\n\n![](https://st-shujuku.com/img/image91.png)\n\n![](https://st-shujuku.com/img/image64.png)\n\n#### ☞ 调整 手动处理最近 N 层\n\n![](https://st-shujuku.com/img/image163.png)\n\n☞  调整 每 N 层合并为一次总结\n\n❗ 通常建议设为 3 或者 5，数字越大，总结内容越不详细\n\n#### ☞ 全选 表格，执行手动填表\n\n![](https://st-shujuku.com/img/image211.png)\n\n![](https://st-shujuku.com/img/image123.png)\n\n#### ☞  接下来你可以去刷视频、睡觉，总之是等待\n\n#### ☞  改回默认设置\n\n❗ 不改回去会 严重 影响实时性和记忆质量\n\n![](https://st-shujuku.com/img/image201.png)\n\n---\n\n#### 常见问题\n\n—— 那几个数字推荐填什么？\n\n❗ 懒得弄懂原理的，照做即可\n\n![](https://st-shujuku.com/img/image156.png)\n\n![](https://st-shujuku.com/img/image106.png)\n\n![](https://st-shujuku.com/img/image181.png)\n\n❗ 选一个你喜欢的配方\n\n☞  每 1 层：更新最及时、总结内容最详细，缺点是 更新频繁、调用API次数多\n\n☞  每 3 层：每 3 层 AI楼层 总结一次，适合想要比较细致的内容，又不想更新太频繁的用户\n\n☞  每 5 层：每 5 层 AI楼层 总结一次，适合不想使用太多次API，内容记个大概就OK的用户 比如玩手枪卡的\n\n如果喜欢Roll楼层，推荐打开这个按钮\n\n☞  等你玩到下一层后，AI才开始总结，缺点是 数据延后一层更新（但大差不差吧）\n\n![](https://st-shujuku.com/img/image141.png)"
+}

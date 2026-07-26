@@ -1,0 +1,7 @@
+{
+  "id": "sec13",
+  "order": 12,
+  "title": "定制/修改模板",
+  "archive": false,
+  "body": "使用可视化表格编辑器\n\n![](https://st-shujuku.com/img/image154.png)\n\n![](https://st-shujuku.com/img/image25.png)\n\n![](https://st-shujuku.com/img/image150.png)\n\n—— 以主角信息表为例，一张数据库表格由下述部分组成\n\n- 表头\n- 表头说明提示词（note）\n- 增删改查触发提示词\n- DDL定义（Sqlite表格），如果是原生填表则不需要管这些。\n\n—— 想要记录主角的境界等级，如何修改主角信息表？\n\n### （方法一）让AI助手帮你修改\n\n![](https://st-shujuku.com/img/image284.png)\n\n![](https://st-shujuku.com/img/image179.png)\n\n### （方法二）手动添加\n\n☞ 添加一行表头，叫境界等级\n\n![](https://st-shujuku.com/img/image104.png)\n\n☞ 到note文本框处，补上新列的说明\n\n![](https://st-shujuku.com/img/image118.png)\n\n☞ 下滑到DDL定义，给境界等级自定义一个英文列名，把这个结构加上去\n\n（注意英文逗号，最后一行不要有英文逗号，前面没有的要加上）\n\n☞ 点击校验DDL确认结构是否正确\n\n![](https://st-shujuku.com/img/image146.png)\n\n☞ 返回更新区，把我们新增的列放入sql示例语句中\n\n![](https://st-shujuku.com/img/image161.png)\n\n☞ 点击保存到当前聊天按钮\n\n☞ 刷新浏览器页面并重新进入聊天对话\n\n![](https://st-shujuku.com/img/image203.png)\n\n![](https://st-shujuku.com/img/image85.png)\n\n### （方法三）下载模板让外部AI修改\n\n☞ 下载表格（默认或二创）\n\n☞ 告诉AI你的要求，下面是参考\n\n<table><tbody><tr><td>这是一个插件表格的模板，我需要你在不改变现有整体代码结构的基础上，帮我新增一个重要势力表，同样的包含增删改初始化的提示词，以及参考其他表格的DDL定义结构，我需要你完整地输出整个修改完毕后的表格代码</td></tr></tbody></table>\n\n![](https://st-shujuku.com/img/image282.png)\n\n如果表格涉及NSFW内容，建议用 Gemini 生成（懂得都懂）\n\n☞ 复制AI生成的代码，覆盖到原模板文件中\n\n☞ 导入数据库，检查是否正常显示\n\n![](https://st-shujuku.com/img/image76.png)\n\n❗发布前一定要征求原作者的同意！"
+}

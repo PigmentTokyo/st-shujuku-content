@@ -1,0 +1,7 @@
+{
+  "id": "sec45",
+  "order": 39,
+  "title": "前置的安装（已整合到新手教程）",
+  "archive": true,
+  "body": "—— 前置、本体和可视化表格安装\n\n## 安装酒馆助手（必须）\n\n#### ☞ 请复制下列蓝字链接\n\nhttps://gitlab.com/novi028/JS-Slash-Runner\n\n### ☞ 安装\n\n- 打开酒馆\n- 按下列图片步骤安装（如果不行可以尝试点击Just for me）：\n\n![](https://st-shujuku.com/img/image134.png)\n\n![](https://st-shujuku.com/img/image29.png)\n\n## 安装数据库脚本及正则\n\n- 下载 任一数据库本体 和 正则\n- 在Discord找到数据库帖子，发送 /回顶\n- 回到顶楼后 认真阅读 指示，并下载对应文件\n\n## 导入数据库本体\n\n- 打开酒馆\n- 点击酒馆助手\n\n![](https://st-shujuku.com/img/image43.png)\n\n- 脚本库 → 导入脚本 不要一起导入正则\n- 点击开关，确认后刷新浏览器\n\n![](https://st-shujuku.com/img/image138.png)\n\n- 确认浏览器刷新后，点击酒馆\n- 确认加载出了数据库功能，再进行后续操作\n\n![](https://st-shujuku.com/img/image63.png)\n\n## 导入正则\n\n- 确认三个正则分别为：正则1、正则2、不发送远楼层消息\n- 找到正则区域，将三个正则导入全局\n\n![](https://st-shujuku.com/img/image28.png)\n\n- 补充说明：安装了 不发送远楼层消息正则 不再需要手动隐藏楼层，如果你本身安装了 隐藏助手 插件，则可以删除不发送远楼层消息。（最小深度即为保留多少层消息）\n\n![](https://st-shujuku.com/img/image73.png)\n\n## 导入可视化前端（不必要，但推荐）\n\n通常情况下，表格数据隐藏在后端，使用 可视化前端脚本 有助于你快速查看当前总结内容。\n\n☞ 文件是 JSON格式，不是 HTML\n\n☞ 具体可以在这里找 数据库二创帖子导航站 或者 社区的插件区\n\n—— 至此，必须的脚本和正则已安装完毕\n"
+}
